@@ -23,4 +23,4 @@
 
 
 ### Group Work Project
-* [News Articles Classifier (Final Draf)](https://github.com/ramiazmi/Data-Science-Training-Course/blob/master/Workshop%20II/Projects/NewsClassifier.ipynb)
+* [News Articles Classifier (Final Draf)](https://github.com/ramiazmi/Data-Science/blob/master/Workshop%20II/Projects/Final%20Project/NewsClassifier.ipynb)
