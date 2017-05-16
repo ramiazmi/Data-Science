@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Applied Data Science Workshop</h1>
+# Applied Data Science Workshop
 
 ## Projects List
 ### Module 2: Manchine learning algorithms and techniques
@@ -23,4 +23,4 @@
 
 
 ### Group Work Project
-* [News Articles Classifier (First Draf)](https://github.com/ramiazmi/Data-Science-Training-Course/blob/master/Workshop%20II/Projects/NewsClassifier.ipynb)
+* [News Articles Classifier (Final Draf)](https://github.com/ramiazmi/Data-Science-Training-Course/blob/master/Workshop%20II/Projects/NewsClassifier.ipynb)
